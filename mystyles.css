@@ -1,4 +1,14 @@
 body{background: orange; }
-p {font-style: italic;
+p {
+  font-style: italic;
 color: red;
+}
+.work-title{
+  background: red;
+}
+.work-title2{
+  background: pink;
+}
+.work-title3{
+  background: blue;
 }
